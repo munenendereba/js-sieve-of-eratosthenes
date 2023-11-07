@@ -1,12 +1,12 @@
-# Bubble Sort in JavaScript
+# Implement Sieve of Eratosthenes in JavaScript
 
 ## Problem
 
-Implement a function that sorts an array of numbers using the "bubble sort" algorithm.
+Implement a function that returns all prime numbers up to a given number using the Sieve of Eratosthenes algorithm.
 
 ## Running
 
-Run using the following command: `node .\bubblesort.js`
+Run using the following command: `node .\index.js`
 
 ## Authors
 

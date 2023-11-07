@@ -1,0 +1,20 @@
+{
+  "name": "sieve-of-eratosthenes",
+  "version": "1.0.0",
+  "description": "Implement a function that returns all prime numbers up to a given number using the Sieve of Eratosthenes algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munenendereba/js-sieve-of-eratosthenes.git"
+  },
+  "keywords": [],
+  "author": "Munene Ndereba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/munenendereba/js-sieve-of-eratosthenes/issues"
+  },
+  "homepage": "https://github.com/munenendereba/js-sieve-of-eratosthenes#readme"
+}

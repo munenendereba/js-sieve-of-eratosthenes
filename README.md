@@ -7,6 +7,7 @@ Implement a function that returns all prime numbers up to a given number using t
 ## Running
 
 Run using the following command: `node .\index.js`
+`node .index2.js` - has optimizations
 
 ## Authors
 
